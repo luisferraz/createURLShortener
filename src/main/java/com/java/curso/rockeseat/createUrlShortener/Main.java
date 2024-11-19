@@ -1,4 +1,4 @@
-package com.java.curso.rockeseat.createUrlShortner;
+package com.java.curso.rockeseat.createUrlShortener;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
